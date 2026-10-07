@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("Hello World... with changes for SCM")
+print("Hello World... change second time for test")
